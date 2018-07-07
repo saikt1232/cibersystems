@@ -1,0 +1,24 @@
+{
+  "name": "cibersystems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikt1232/cibersystems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikt1232/cibersystems/issues"
+  },
+  "homepage": "https://github.com/saikt1232/cibersystems#readme",
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
